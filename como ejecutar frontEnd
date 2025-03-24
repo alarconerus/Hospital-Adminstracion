@@ -1,0 +1,21 @@
+# 🏥 Proyecto Angular - Gestión Hospitalaria
+
+Este es un proyecto desarrollado en **Angular v19** con **Angular Material** y **Bootstrap**. Permite la gestión de hospitales, incluyendo autenticación, CRUD de hospitales y más.
+
+## 📥 Descargar y ejecutar el proyecto
+
+### 1️⃣ Clonar el repositorio o descargar ZIP
+Clonar con Git:
+```bash
+git clone https://github.com/tuusuario/tu-repo.git
+cd tu-repo
+
+Si aún no tienes Node.js y Angular CLI, instálalos:
+npm install -g @angular/cli
+Ejecutar en la terminal dentro de la carpeta del proyecto:
+npm install
+Para iniciar la aplicación:
+ng serve
+
+Luego, abrir en el navegador:
+👉 http://localhost:4200/
