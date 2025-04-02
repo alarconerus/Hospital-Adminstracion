@@ -21,7 +21,7 @@ Antes de iniciar, asegúrate de cumplir con los siguientes requisitos:
 1. Abre una terminal o consola y navega a la carpeta donde deseas clonar el proyecto.
 2. Ejecuta el siguiente comando:
 ```bash
- git clone https://github.com/alarconerus/proyecto-hospital.git
+ git clone https://github.com/alarconerus/Hospital-Adminstracion.git
 ```
 
 ---
